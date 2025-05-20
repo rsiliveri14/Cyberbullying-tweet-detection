@@ -18,13 +18,14 @@ Detecting cyberbullying is essential in today's digital age, where social media 
 
 1. **Clone the repository**  
    git clone [https://github.com/rsiliveri14/Cyberbullying-tweet-detection.git](https://github.com/rsiliveri14/Cyberbullying-tweet-detection.git)
+   
    cd Cyberbullying-tweet-detection
 
-2. **Install dependencies**  
+3. **Install dependencies**  
    pip install \-r requirements.txt  
-3. **Run the Jupyter Notebook**  
+4. **Run the Jupyter Notebook**  
    jupyter notebook Notebooks/Cyberbullying\_Detection.ipynb  
-4. **Run prediction via script**  
+5. **Run prediction via script**  
    python main.py
 
 **🧪 Model Performance**
